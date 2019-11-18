@@ -1,3 +1,4 @@
 faltufile.txt
 *.log
 log
+*orig

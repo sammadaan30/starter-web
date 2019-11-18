@@ -6,6 +6,8 @@
 
 Main purpose is to train myself with the amazing git technology.
 
+Enjoy the code
+
 ## How to contribute
 
 ## CODE 

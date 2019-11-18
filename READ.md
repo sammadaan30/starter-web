@@ -1,3 +1,6 @@
+
+Git Training @Copyright 2019
+
 # Starter Web Project
 
 ## Introduction

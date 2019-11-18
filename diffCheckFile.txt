@@ -1,1 +1,3 @@
 Hey this is a diff check file commit 1.
+
+Hey here I am adding text 2nd time to this file, so commit 2.

@@ -20,3 +20,7 @@ Enjoy the code
 ## Description
 
 ## How to contribute
+
+## Donation
+
+## Hard Earned Money

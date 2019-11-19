@@ -26,3 +26,5 @@ Enjoy the code
 ## Hard Earned Money
 
 ## FROM MYFEATURE BRANCH
+
+## @All rights Reserved
